@@ -1,4 +1,4 @@
-# Inventory-Bar-Graph
+# Calculator
 #### General Description
 This application demonstrates the blah blah blah blah blah blah blah
 
